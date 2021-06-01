@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "./static/js/main.ebdad57c.chunk.js",
-    "main.js.map": "./static/js/main.ebdad57c.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.070de63c.js",
-    "runtime-main.js.map": "./static/js/runtime-main.070de63c.js.map",
-    "static/js/2.c2aecdc7.chunk.js": "./static/js/2.c2aecdc7.chunk.js",
-    "static/js/2.c2aecdc7.chunk.js.map": "./static/js/2.c2aecdc7.chunk.js.map",
-    "index.html": "./index.html",
-    "static/js/2.c2aecdc7.chunk.js.LICENSE.txt": "./static/js/2.c2aecdc7.chunk.js.LICENSE.txt"
+    "main.js": "/react-tdd-login-form/static/js/main.ebdad57c.chunk.js",
+    "main.js.map": "/react-tdd-login-form/static/js/main.ebdad57c.chunk.js.map",
+    "runtime-main.js": "/react-tdd-login-form/static/js/runtime-main.fdc0330f.js",
+    "runtime-main.js.map": "/react-tdd-login-form/static/js/runtime-main.fdc0330f.js.map",
+    "static/js/2.c2aecdc7.chunk.js": "/react-tdd-login-form/static/js/2.c2aecdc7.chunk.js",
+    "static/js/2.c2aecdc7.chunk.js.map": "/react-tdd-login-form/static/js/2.c2aecdc7.chunk.js.map",
+    "index.html": "/react-tdd-login-form/index.html",
+    "static/js/2.c2aecdc7.chunk.js.LICENSE.txt": "/react-tdd-login-form/static/js/2.c2aecdc7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.070de63c.js",
+    "static/js/runtime-main.fdc0330f.js",
     "static/js/2.c2aecdc7.chunk.js",
     "static/js/main.ebdad57c.chunk.js"
   ]
