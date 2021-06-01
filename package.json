@@ -2,7 +2,7 @@
   "name": "react-tdd-login-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anaguerraabaroa.github.io/react-tdd-login-form/",
+  "homepage": "./",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.11.2",
@@ -29,9 +29,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint --ignore-path .gitignore .",
     "format": "prettier --ignore-path .gitignore --write \"**/*.+(js)\"",
-    "docs": "rm -rf docs && react-scripts build && mv build docs",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "docs": "rm -rf docs && react-scripts build && mv build docs"
   },
   "eslintConfig": {
     "extends": [
@@ -52,7 +50,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.0",
     "typescript": "^4.2.4"
   },
   "msw": {
