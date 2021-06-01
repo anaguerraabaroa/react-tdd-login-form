@@ -1,4 +1,4 @@
-![Form]()
+![Form](./src/images/form.png)
 
 # **React TDD Login Form**
 
@@ -17,7 +17,8 @@ This form has been developed applying Test Driven Development with
 and
 [<img src = "https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">](https://material-ui.com/)
 
-[**Project URL**]() is available on GitHub Pages.
+[**Project URL**](https://anaguerraabaroa.github.io/react-tdd-login-form/) is
+available on GitHub Pages.
 
 **NOTE:** a [**mock server**](https://mswjs.io/) has been used to develop this
 exercise.
@@ -505,6 +506,8 @@ React TDD Login Form
 │   │   ├── employee-page.js
 │   │   ├── employee-page.test.js
 │   │   └── index.js
+│   ├── images
+│   │   └── form.png
 │   ├── mocks
 │   │   ├── browser.js
 │   │   └── handlers.js
