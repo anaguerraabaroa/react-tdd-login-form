@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-tdd-login-form/static/js/main.ebdad57c.chunk.js",
-    "main.js.map": "/react-tdd-login-form/static/js/main.ebdad57c.chunk.js.map",
+    "main.js": "/react-tdd-login-form/static/js/main.bc5744d0.chunk.js",
+    "main.js.map": "/react-tdd-login-form/static/js/main.bc5744d0.chunk.js.map",
     "runtime-main.js": "/react-tdd-login-form/static/js/runtime-main.fdc0330f.js",
     "runtime-main.js.map": "/react-tdd-login-form/static/js/runtime-main.fdc0330f.js.map",
     "static/js/2.c2aecdc7.chunk.js": "/react-tdd-login-form/static/js/2.c2aecdc7.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.fdc0330f.js",
     "static/js/2.c2aecdc7.chunk.js",
-    "static/js/main.ebdad57c.chunk.js"
+    "static/js/main.bc5744d0.chunk.js"
   ]
 }
