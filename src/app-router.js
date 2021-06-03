@@ -9,7 +9,7 @@ import {ADMIN_ROLE} from './consts'
 
 export const AppRouter = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route exact path="/">
           <LoginPage />
